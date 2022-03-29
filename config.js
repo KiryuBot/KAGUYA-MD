@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Buat Oleh Dika Ardnt.
+   *Hubungi Saya di wa.me/6288292024190
    * Follow https://github.com/DikaArdnt
 */
 
@@ -22,11 +22,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281285866502', '6281398003097']
-global.botname = 'BAYUBOT-MD'
-global.ownername = 'BAYU OFC'
-global.packname = 'BAYUBOT-MD'
-global.author = 'CREATED BY BAYU OFC'
+global . pemilik  = [ '6285338314194' , '6285338314194' ]
+global . nama  bot  =  'BAYUBOT -MD' 
+global . nama pemilik  =  'YUZZU OFC'
+global . nama paket = ' YUZZUBOT  -MD' 
+global . author  =  'DIBUAT OLEH YUZZU OFC'
 global.sessionName = 'session'
 global.prefa = ['#','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
